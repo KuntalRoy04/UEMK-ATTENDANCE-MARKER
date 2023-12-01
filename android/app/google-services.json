@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530327886604",
+    "project_id": "uemkolkata",
+    "storage_bucket": "uemkolkata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530327886604:android:297903f8ea4860c67cc729",
+        "android_client_info": {
+          "package_name": "com.example.uemk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaFvr7k8DH4BOVL5ad3aDF_wvlfPPkDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
